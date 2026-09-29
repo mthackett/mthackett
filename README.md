@@ -12,7 +12,7 @@ I’m particularly interested in systems that connect:
 
 **operational data, analysis, decisions, and automated workflows**
 
-That includes revenue and GTM analytics, CRM and lifecycle systems, analytics engineering, workflow automation, and AI-assisted operational tools.
+That includes revenue and GTM analytics, CRM and lifecycle systems, data pipelines, data modeling, workflow automation, and AI-assisted operational tools.
 
 ### Core Technologies
 
